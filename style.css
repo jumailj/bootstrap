@@ -30,6 +30,12 @@ body {
     body::before {
       content: "MD";
     }
+
+    .news-input{
+        width: 50%;
+    
+    }
+
   }
   
   @media (min-width: 992px) {
@@ -49,3 +55,4 @@ body {
       content: "XXL";
     }
   }
+
